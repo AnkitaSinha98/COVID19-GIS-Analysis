@@ -4,6 +4,7 @@ This project aims to use the Hadoop framework to analyze unstructured data that 
 ## Requirments 
 1. Datasets
 2. Cloudera
+3. Python
 
 ## Tools used
 1. VMware Player

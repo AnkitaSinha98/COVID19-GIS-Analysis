@@ -1,8 +1,5 @@
 # COVID-19-GIS-Analysis
 
-# Predicting-Score-Using-Supervised-ML
-### Task #1 by The Sparks Foundation (GRIPFEB21) (Level - Beginner)
-
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)

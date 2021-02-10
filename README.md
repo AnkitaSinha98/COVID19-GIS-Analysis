@@ -1,5 +1,7 @@
 # COVID-19-GIS-Analysis
-This project aims to use the Hadoop framework to analyze unstructured data that we obtain from WHO and Kaggle. To perform GIS-based analysis using Hive and python for data visualization on the spatial data.
+1. This project aims to use the Hadoop framework to analyze unstructured data that we obtain from csse covid 19 time series.
+2. Timeseries DataSet: https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/. 
+3. To perform analysis using Hive and python for data visualization on the spatial data.
 
 ## Requirments 
 1. Datasets
